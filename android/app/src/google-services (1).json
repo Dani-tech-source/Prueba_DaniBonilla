@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519639823435",
+    "project_id": "prueba-intermedia",
+    "storage_bucket": "prueba-intermedia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519639823435:android:efb1e172b963bea38689ce",
+        "android_client_info": {
+          "package_name": "com.example.prueba_danibonilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5eiQn3OWMGv8S9vwS_8ttkzOQhv9tHEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
